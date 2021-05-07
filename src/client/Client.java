@@ -15,7 +15,7 @@ public class Client {
 	
 	// IP and port
 	private static String ip = "localhost";
-	private static int port = 3003;
+	private static int port = 3999;
 	
 	public static void main(String[] args) {
 		 // System.out.println(new java.io.File("").getAbsolutePath());
